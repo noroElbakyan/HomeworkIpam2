@@ -4,6 +4,6 @@ void main() {
 Triangles triangles = new Triangles();
 triangles.growingTriangles();
 triangles.decreasingTriangles();
-triangles.pyramidTriangles();
+triangles.pyramidTriangles();;
 
 }
